@@ -4,7 +4,7 @@ To View any Dashboard, Download the pbix file alongwith the corresponding datase
 *****change data source to /[path where you downloaded the dataset] to prevent any errors******
 
 
-*/WIP/*
+******************************************************************************WIP(work in progress)********************************************
 
 Anlytics using open source data  to provide Insights on current trends and patterns in various fields for overall developement of a state
 
