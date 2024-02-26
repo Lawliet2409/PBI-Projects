@@ -1,4 +1,4 @@
-                                                                                          ***** HOSTED PROJECTS *****
+   ***** HOSTED PROJECTS *****
 
 1. E-commerce Website : https://ecomashwin.000webhostapp.com/
 2.  inventory management system :  https://ashwinvaman.000webhostapp.com/ (false dangerous flag by google due to it requiring login credentials) use these credentials
@@ -21,7 +21,7 @@ Password: user
 
 
 
- *********                      To View any Dashboard, Download the pbix file alongwith the corresponding dataset and load the dataset in powerBI first before opening the pbix file    *********
+ *********   To View any Dashboard, Download the pbix file alongwith the corresponding dataset and load the dataset in powerBI first before opening the pbix file    *********
 
 
 *****change data source to /[path where you downloaded the dataset] to prevent any errors******
