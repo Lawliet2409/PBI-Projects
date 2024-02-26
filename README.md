@@ -1,4 +1,4 @@
-                                                                                          ***** HOSTED PROJECTS*****
+                                                                                          ***** HOSTED PROJECTS *****
 
 1. E-commerce Website : https://ecomashwin.000webhostapp.com/
 2.  inventory management system :  https://ashwinvaman.000webhostapp.com/ (false dangerous flag by google due to it requiring login credentials) use these credentials
