@@ -24,12 +24,12 @@ Password: user
  *********   To View any Dashboard, Download the pbix file alongwith the corresponding dataset and load the dataset in powerBI first before opening the pbix file    *********
 
 
-*****change data source to /[path where you downloaded the dataset] to prevent any errors******
+*****change data source to /[path where you downloaded the dataset] to prevent any errors*****
 
 
 ******************************************************************************WIP(work in progress)   ********************************************
 
-Anlytics using open source data  to provide Insights on current trends and patterns in various fields for overall developement of a state
+Analytics using open source data  to provide Insights on current trends and patterns in various fields for overall developement of a state
 
 
 
