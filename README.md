@@ -1,26 +1,3 @@
-   ***** HOSTED PROJECTS *****
-
-1. E-commerce Website : https://ecomashwin.000webhostapp.com/
-2.  inventory management system :  https://ashwinvaman.000webhostapp.com/ (false dangerous flag by google due to it requiring login credentials) use these credentials
-    
-**Admin Login Details**
-
-Username: admin
-Password: admin
-
-**Special User Login Details**
-
-Username: special
-Password: special
-
-**User(Employee) Login Details**
-
-Username: user
-Password: user 
-
-
-
-
  *********   To View any Dashboard, Download the pbix file alongwith the corresponding dataset and load the dataset in powerBI first before opening the pbix file    *********
 
 
@@ -73,3 +50,23 @@ IMDB dashboard
 
 ![Screenshot (243)](https://github.com/Lawliet2409/PBI-Projects/assets/47301097/1c4c39f5-15d3-4700-b56f-2fce63065ff9)
 
+
+   ***** HOSTED PROJECTS *****
+
+1. E-commerce Website : https://ecomashwin.000webhostapp.com/
+2.  inventory management system :  https://ashwinvaman.000webhostapp.com/ (false dangerous flag by google due to it requiring login credentials) use these credentials
+    
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Special User Login Details**
+
+Username: special
+Password: special
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user
